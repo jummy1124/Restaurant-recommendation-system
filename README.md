@@ -4,7 +4,7 @@
 # Hmoe page
 <img src="./img1.JPG">
 
-# Result of select(City、region、price range and food type)
+# Result of select(City、Region、Price range and Food type)
 <img src="./img2.JPG"> 
 
 # Restaurant review trends
